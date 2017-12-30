@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH19 - Keyboard-Aware GamePad Library", "CH19 - Keyboard-Aware GamePad Library\CH19 - Keyboard-Aware GamePad Library.csproj", "{A7A96E91-D49C-45EF-AEC3-A7B8DB646186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH19 - Test Game", "CH19 - Test Game\CH19 - Test Game\CH19 - Test Game.csproj", "{C6D932F7-56FC-4F31-A6A7-423819C89E3D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CH19 - Test GameContent", "CH19 - Test Game\CH19 - Test GameContent\CH19 - Test GameContent.contentproj", "{6D4B9A1A-6F55-417D-8AB9-3E171CCEACEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A96E91-D49C-45EF-AEC3-A7B8DB646186}.Debug|x86.ActiveCfg = Debug|x86
+		{A7A96E91-D49C-45EF-AEC3-A7B8DB646186}.Debug|x86.Build.0 = Debug|x86
+		{A7A96E91-D49C-45EF-AEC3-A7B8DB646186}.Release|x86.ActiveCfg = Release|x86
+		{A7A96E91-D49C-45EF-AEC3-A7B8DB646186}.Release|x86.Build.0 = Release|x86
+		{C6D932F7-56FC-4F31-A6A7-423819C89E3D}.Debug|x86.ActiveCfg = Debug|x86
+		{C6D932F7-56FC-4F31-A6A7-423819C89E3D}.Debug|x86.Build.0 = Debug|x86
+		{C6D932F7-56FC-4F31-A6A7-423819C89E3D}.Release|x86.ActiveCfg = Release|x86
+		{C6D932F7-56FC-4F31-A6A7-423819C89E3D}.Release|x86.Build.0 = Release|x86
+		{6D4B9A1A-6F55-417D-8AB9-3E171CCEACEF}.Debug|x86.ActiveCfg = Debug|x86
+		{6D4B9A1A-6F55-417D-8AB9-3E171CCEACEF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

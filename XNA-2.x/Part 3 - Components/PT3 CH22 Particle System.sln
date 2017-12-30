@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH22 - Particle System Library", "CH22 - Particle System Library\CH22 - Particle System Library.csproj", "{33866834-0203-467A-B8B6-182B431F4EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH22 - Particle System Test Game", "CH22 - Particle System Test Game\CH22 - Particle System Test Game.csproj", "{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Debug|x86.ActiveCfg = Debug|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Debug|x86.Build.0 = Debug|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Release|Any CPU.ActiveCfg = Release|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Release|Mixed Platforms.Build.0 = Release|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Release|x86.ActiveCfg = Release|x86
+		{33866834-0203-467A-B8B6-182B431F4EDA}.Release|x86.Build.0 = Release|x86
+		{807FD915-6C0E-4F60-A548-4DA131BED194}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{807FD915-6C0E-4F60-A548-4DA131BED194}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{807FD915-6C0E-4F60-A548-4DA131BED194}.Debug|x86.ActiveCfg = Debug|x86
+		{807FD915-6C0E-4F60-A548-4DA131BED194}.Release|Any CPU.ActiveCfg = Release|x86
+		{807FD915-6C0E-4F60-A548-4DA131BED194}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{807FD915-6C0E-4F60-A548-4DA131BED194}.Release|x86.ActiveCfg = Release|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Debug|x86.ActiveCfg = Debug|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Debug|x86.Build.0 = Debug|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Release|Any CPU.ActiveCfg = Release|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Release|x86.ActiveCfg = Release|x86
+		{8C9BAF06-C3E7-4FDD-A325-91D0AF6BCC38}.Release|x86.Build.0 = Release|x86
+		{016FB7C4-5A36-45B0-B092-45D5DA654C55}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{016FB7C4-5A36-45B0-B092-45D5DA654C55}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{016FB7C4-5A36-45B0-B092-45D5DA654C55}.Debug|x86.ActiveCfg = Debug|x86
+		{016FB7C4-5A36-45B0-B092-45D5DA654C55}.Release|Any CPU.ActiveCfg = Release|x86
+		{016FB7C4-5A36-45B0-B092-45D5DA654C55}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{016FB7C4-5A36-45B0-B092-45D5DA654C55}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

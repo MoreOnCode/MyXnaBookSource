@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH28 - Pixel-Perfect 2D Collisions Test Game", "CH28 - Pixel-Perfect 2D Collisions Test Game\CH28 - Pixel-Perfect 2D Collisions Test Game.csproj", "{888E2AD9-E37A-4D75-84E2-5FC775E8A27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH28 - Pixel-Perfect 2D Collisions Library", "CH28 - Pixel-Perfect 2D Collisions Library\CH28 - Pixel-Perfect 2D Collisions Library.csproj", "{BD4E6762-AB20-4F48-AD99-2A6156EAEE58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888E2AD9-E37A-4D75-84E2-5FC775E8A27A}.Debug|x86.ActiveCfg = Debug|x86
+		{888E2AD9-E37A-4D75-84E2-5FC775E8A27A}.Debug|x86.Build.0 = Debug|x86
+		{888E2AD9-E37A-4D75-84E2-5FC775E8A27A}.Release|x86.ActiveCfg = Release|x86
+		{888E2AD9-E37A-4D75-84E2-5FC775E8A27A}.Release|x86.Build.0 = Release|x86
+		{1EBBDCD9-9BD4-4B4C-8EDA-74802E2E854E}.Debug|x86.ActiveCfg = Debug|x86
+		{1EBBDCD9-9BD4-4B4C-8EDA-74802E2E854E}.Release|x86.ActiveCfg = Release|x86
+		{BD4E6762-AB20-4F48-AD99-2A6156EAEE58}.Debug|x86.ActiveCfg = Debug|x86
+		{BD4E6762-AB20-4F48-AD99-2A6156EAEE58}.Debug|x86.Build.0 = Debug|x86
+		{BD4E6762-AB20-4F48-AD99-2A6156EAEE58}.Release|x86.ActiveCfg = Release|x86
+		{BD4E6762-AB20-4F48-AD99-2A6156EAEE58}.Release|x86.Build.0 = Release|x86
+		{C4B4FC1D-D303-4254-90DD-BA6420CC43BB}.Debug|x86.ActiveCfg = Debug|x86
+		{C4B4FC1D-D303-4254-90DD-BA6420CC43BB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

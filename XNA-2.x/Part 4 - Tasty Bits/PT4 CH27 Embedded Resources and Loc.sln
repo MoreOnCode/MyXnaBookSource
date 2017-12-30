@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH27 - Embedded Resources and Localization", "CH27 - Embedded Resources and Localization\CH27 - Embedded Resources and Localization.csproj", "{821AAC73-EC20-4228-9B2A-DBE6A64F3374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH27 - ERaL Localized Content", "CH27 - ERaL Localized Content\CH27 - ERaL Localized Content.csproj", "{8FAE80BB-1C6B-464F-886E-0016768793CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH27 - ERaL Shared Components", "CH27 - ERaL Shared Components\CH27 - ERaL Shared Components.csproj", "{9A31E30F-BCEA-4562-8A57-5C83DF58AA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH27 - ERaL Resource Staging", "CH27 - ERaL Resource Staging\CH27 - ERaL Resource Staging.csproj", "{62E1F829-BA79-4A40-B844-739A6CA8778F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH27 - ERaL Embedded Content [Win]", "CH27 - ERaL Embedded Content [Win]\CH27 - ERaL Embedded Content [Win].csproj", "{6E1FC668-91AD-44B0-9DF6-613EE58AB074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821AAC73-EC20-4228-9B2A-DBE6A64F3374}.Debug|x86.ActiveCfg = Debug|x86
+		{821AAC73-EC20-4228-9B2A-DBE6A64F3374}.Debug|x86.Build.0 = Debug|x86
+		{821AAC73-EC20-4228-9B2A-DBE6A64F3374}.Release|x86.ActiveCfg = Release|x86
+		{821AAC73-EC20-4228-9B2A-DBE6A64F3374}.Release|x86.Build.0 = Release|x86
+		{C8388298-159B-4ADA-B443-905B2564E255}.Debug|x86.ActiveCfg = Debug|x86
+		{C8388298-159B-4ADA-B443-905B2564E255}.Release|x86.ActiveCfg = Release|x86
+		{8FAE80BB-1C6B-464F-886E-0016768793CE}.Debug|x86.ActiveCfg = Debug|x86
+		{8FAE80BB-1C6B-464F-886E-0016768793CE}.Debug|x86.Build.0 = Debug|x86
+		{8FAE80BB-1C6B-464F-886E-0016768793CE}.Release|x86.ActiveCfg = Release|x86
+		{8FAE80BB-1C6B-464F-886E-0016768793CE}.Release|x86.Build.0 = Release|x86
+		{308A13A2-C6E4-445A-B3D9-D8682C4973FF}.Debug|x86.ActiveCfg = Debug|x86
+		{308A13A2-C6E4-445A-B3D9-D8682C4973FF}.Release|x86.ActiveCfg = Release|x86
+		{9A31E30F-BCEA-4562-8A57-5C83DF58AA88}.Debug|x86.ActiveCfg = Debug|x86
+		{9A31E30F-BCEA-4562-8A57-5C83DF58AA88}.Debug|x86.Build.0 = Debug|x86
+		{9A31E30F-BCEA-4562-8A57-5C83DF58AA88}.Release|x86.ActiveCfg = Release|x86
+		{9A31E30F-BCEA-4562-8A57-5C83DF58AA88}.Release|x86.Build.0 = Release|x86
+		{0150F289-0281-4156-8D2F-99048AD3766F}.Debug|x86.ActiveCfg = Debug|x86
+		{0150F289-0281-4156-8D2F-99048AD3766F}.Release|x86.ActiveCfg = Release|x86
+		{62E1F829-BA79-4A40-B844-739A6CA8778F}.Debug|x86.ActiveCfg = Debug|x86
+		{62E1F829-BA79-4A40-B844-739A6CA8778F}.Debug|x86.Build.0 = Debug|x86
+		{62E1F829-BA79-4A40-B844-739A6CA8778F}.Release|x86.ActiveCfg = Release|x86
+		{62E1F829-BA79-4A40-B844-739A6CA8778F}.Release|x86.Build.0 = Release|x86
+		{871D06A7-6C0E-47BB-A455-05E7BDABE43A}.Debug|x86.ActiveCfg = Debug|x86
+		{871D06A7-6C0E-47BB-A455-05E7BDABE43A}.Release|x86.ActiveCfg = Release|x86
+		{6E1FC668-91AD-44B0-9DF6-613EE58AB074}.Debug|x86.ActiveCfg = Debug|x86
+		{6E1FC668-91AD-44B0-9DF6-613EE58AB074}.Debug|x86.Build.0 = Debug|x86
+		{6E1FC668-91AD-44B0-9DF6-613EE58AB074}.Release|x86.ActiveCfg = Release|x86
+		{6E1FC668-91AD-44B0-9DF6-613EE58AB074}.Release|x86.Build.0 = Release|x86
+		{3DAE24CE-D6DE-47EC-8CD0-9D74E833D337}.Debug|x86.ActiveCfg = Debug|x86
+		{3DAE24CE-D6DE-47EC-8CD0-9D74E833D337}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

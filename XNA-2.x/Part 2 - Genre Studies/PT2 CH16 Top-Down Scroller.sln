@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH16 - Top-Down Scroller", "CH16 - Top-Down Scroller\CH16 - Top-Down Scroller.csproj", "{9C83B1E4-6554-4AC2-B9B1-EA708C813B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C83B1E4-6554-4AC2-B9B1-EA708C813B30}.Debug|x86.ActiveCfg = Debug|x86
+		{9C83B1E4-6554-4AC2-B9B1-EA708C813B30}.Debug|x86.Build.0 = Debug|x86
+		{9C83B1E4-6554-4AC2-B9B1-EA708C813B30}.Release|x86.ActiveCfg = Release|x86
+		{9C83B1E4-6554-4AC2-B9B1-EA708C813B30}.Release|x86.Build.0 = Release|x86
+		{F084480F-3EFA-4CD1-ABA8-A65AF44835C4}.Debug|x86.ActiveCfg = Debug|x86
+		{F084480F-3EFA-4CD1-ABA8-A65AF44835C4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

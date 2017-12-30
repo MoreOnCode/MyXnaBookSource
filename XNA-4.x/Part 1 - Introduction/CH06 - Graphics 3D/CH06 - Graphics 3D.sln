@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH06 - Graphics 3D", "CH06 - Graphics 3D\CH06 - Graphics 3D\CH06 - Graphics 3D.csproj", "{90283AFB-3B64-4F9C-9085-6FDCD06E18B8}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CH06 - Graphics 3DContent", "CH06 - Graphics 3D\CH06 - Graphics 3DContent\CH06 - Graphics 3DContent.contentproj", "{94774CA7-C74A-414E-A8D8-0496F2CA0C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90283AFB-3B64-4F9C-9085-6FDCD06E18B8}.Debug|x86.ActiveCfg = Debug|x86
+		{90283AFB-3B64-4F9C-9085-6FDCD06E18B8}.Debug|x86.Build.0 = Debug|x86
+		{90283AFB-3B64-4F9C-9085-6FDCD06E18B8}.Release|x86.ActiveCfg = Release|x86
+		{90283AFB-3B64-4F9C-9085-6FDCD06E18B8}.Release|x86.Build.0 = Release|x86
+		{94774CA7-C74A-414E-A8D8-0496F2CA0C50}.Debug|x86.ActiveCfg = Debug|x86
+		{94774CA7-C74A-414E-A8D8-0496F2CA0C50}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

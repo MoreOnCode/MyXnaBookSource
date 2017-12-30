@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH15 - Puzzle Game", "CH15 - Puzzle Game\CH15 - Puzzle Game\CH15 - Puzzle Game.csproj", "{1B6C79F1-D781-447B-8109-1E176496AB5D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CH15 - Puzzle GameContent", "CH15 - Puzzle Game\CH15 - Puzzle GameContent\CH15 - Puzzle GameContent.contentproj", "{34DBD43A-5111-427F-8DAF-652F3FD0F489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6C79F1-D781-447B-8109-1E176496AB5D}.Debug|x86.ActiveCfg = Debug|x86
+		{1B6C79F1-D781-447B-8109-1E176496AB5D}.Debug|x86.Build.0 = Debug|x86
+		{1B6C79F1-D781-447B-8109-1E176496AB5D}.Release|x86.ActiveCfg = Release|x86
+		{1B6C79F1-D781-447B-8109-1E176496AB5D}.Release|x86.Build.0 = Release|x86
+		{34DBD43A-5111-427F-8DAF-652F3FD0F489}.Debug|x86.ActiveCfg = Debug|x86
+		{34DBD43A-5111-427F-8DAF-652F3FD0F489}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

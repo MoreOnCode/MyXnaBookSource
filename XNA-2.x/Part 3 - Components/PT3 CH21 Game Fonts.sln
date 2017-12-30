@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH21 - Game Font Library", "CH21 - Game Font Library\CH21 - Game Font Library.csproj", "{E43BB8E5-E31F-4E04-9422-D025A0658817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH21 - Game Font Test Game", "CH21 - Game Font Test Game\CH21 - Game Font Test Game.csproj", "{4F989B02-D5B9-4536-AF6D-605BDF8538D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Debug|x86.ActiveCfg = Debug|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Debug|x86.Build.0 = Debug|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Release|Any CPU.ActiveCfg = Release|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Release|x86.ActiveCfg = Release|x86
+		{E43BB8E5-E31F-4E04-9422-D025A0658817}.Release|x86.Build.0 = Release|x86
+		{C181DACB-F0B8-4323-89DE-AF65B78CA172}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C181DACB-F0B8-4323-89DE-AF65B78CA172}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C181DACB-F0B8-4323-89DE-AF65B78CA172}.Debug|x86.ActiveCfg = Debug|x86
+		{C181DACB-F0B8-4323-89DE-AF65B78CA172}.Release|Any CPU.ActiveCfg = Release|x86
+		{C181DACB-F0B8-4323-89DE-AF65B78CA172}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C181DACB-F0B8-4323-89DE-AF65B78CA172}.Release|x86.ActiveCfg = Release|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Debug|x86.ActiveCfg = Debug|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Debug|x86.Build.0 = Debug|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Release|Any CPU.ActiveCfg = Release|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Release|x86.ActiveCfg = Release|x86
+		{4F989B02-D5B9-4536-AF6D-605BDF8538D7}.Release|x86.Build.0 = Release|x86
+		{9679F692-5DE2-4584-9955-E417BE88203E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9679F692-5DE2-4584-9955-E417BE88203E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9679F692-5DE2-4584-9955-E417BE88203E}.Debug|x86.ActiveCfg = Debug|x86
+		{9679F692-5DE2-4584-9955-E417BE88203E}.Release|Any CPU.ActiveCfg = Release|x86
+		{9679F692-5DE2-4584-9955-E417BE88203E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9679F692-5DE2-4584-9955-E417BE88203E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

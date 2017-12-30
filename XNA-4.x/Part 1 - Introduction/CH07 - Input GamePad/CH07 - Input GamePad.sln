@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH07 - Input GamePad", "CH07 - Input GamePad\CH07 - Input GamePad\CH07 - Input GamePad.csproj", "{CE76BA84-3251-4C5E-BFD6-456D09DD145C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CH07 - Input GamePadContent", "CH07 - Input GamePad\CH07 - Input GamePadContent\CH07 - Input GamePadContent.contentproj", "{AEA3D1FD-841C-45DC-8675-BB169CB2EAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE76BA84-3251-4C5E-BFD6-456D09DD145C}.Debug|x86.ActiveCfg = Debug|x86
+		{CE76BA84-3251-4C5E-BFD6-456D09DD145C}.Debug|x86.Build.0 = Debug|x86
+		{CE76BA84-3251-4C5E-BFD6-456D09DD145C}.Release|x86.ActiveCfg = Release|x86
+		{CE76BA84-3251-4C5E-BFD6-456D09DD145C}.Release|x86.Build.0 = Release|x86
+		{AEA3D1FD-841C-45DC-8675-BB169CB2EAEF}.Debug|x86.ActiveCfg = Debug|x86
+		{AEA3D1FD-841C-45DC-8675-BB169CB2EAEF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

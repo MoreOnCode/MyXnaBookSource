@@ -1,0 +1,39 @@
+############################
+PlayerOne
+############################
+
+// colored buttons
+X=F
+Y=T
+A=V
+B=G
+
+// top buttons
+ShoulderLeft=Q
+ShoulderRight=E
+TriggerLeft=Z
+TriggerRight=C
+
+// left thumbstick
+ThumbLeft=X
+ThumbLeftDown=S
+ThumbLeftLeft=A
+ThumbLeftRight=D
+ThumbLeftUp=W
+
+// right thumbstick
+ThumbRight=End
+ThumbRightDown=Down
+ThumbRightLeft=Left
+ThumbRightRight=Right
+ThumbRightUp=Up
+
+// system buttons
+Start=Enter
+Back=Back
+
+// Directional Pad
+DPadDown=S
+DPadLeft=A
+DPadRight=D
+DPadUp=W

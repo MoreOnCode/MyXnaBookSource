@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH18 - Board Game", "CH18 - Board Game\CH18 - Board Game.csproj", "{E6A3262C-B48D-4187-9723-61C77DE5D027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A3262C-B48D-4187-9723-61C77DE5D027}.Debug|x86.ActiveCfg = Debug|x86
+		{E6A3262C-B48D-4187-9723-61C77DE5D027}.Debug|x86.Build.0 = Debug|x86
+		{E6A3262C-B48D-4187-9723-61C77DE5D027}.Release|x86.ActiveCfg = Release|x86
+		{E6A3262C-B48D-4187-9723-61C77DE5D027}.Release|x86.Build.0 = Release|x86
+		{750041EF-08B3-4486-9D00-4B793F591D89}.Debug|x86.ActiveCfg = Debug|x86
+		{750041EF-08B3-4486-9D00-4B793F591D89}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

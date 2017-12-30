@@ -1,0 +1,65 @@
+############################
+PlayerOne
+############################
+
+// colored buttons
+X=F
+Y=T
+A=V
+B=G
+
+// top buttons
+ShoulderLeft=Q
+ShoulderRight=E
+TriggerLeft=Z
+TriggerRight=C
+
+// left thumbstick
+ThumbLeft=X
+ThumbLeftDown=S
+ThumbLeftLeft=A
+ThumbLeftRight=D
+ThumbLeftUp=W
+
+// system buttons
+Start=LeftControl
+Back=LeftShift
+
+// Directional Pad
+DPadDown=S
+DPadLeft=A
+DPadRight=D
+DPadUp=W
+
+############################
+PlayerTwo
+############################
+
+// colored buttons
+X=NumPad4
+Y=NumPad8
+A=NumPad5
+B=NumPad6
+
+// top buttons
+ShoulderLeft=NumPad7
+ShoulderRight=NumPad9
+TriggerLeft=Delete
+TriggerRight=PageDown
+
+// left thumbstick
+ThumbLeft=End
+ThumbLeftDown=Down
+ThumbLeftLeft=Left
+ThumbLeftRight=Right
+ThumbLeftUp=Up
+
+// system buttons
+Start=RightControl
+Back=RightShift
+
+// Directional Pad
+DPadDown=Down
+DPadLeft=Left
+DPadRight=Right
+DPadUp=Up

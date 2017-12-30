@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH15 - Puzzle Game", "CH15 - Puzzle Game\CH15 - Puzzle Game.csproj", "{B5D44D37-601D-4225-8656-BC8D33DCCC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D44D37-601D-4225-8656-BC8D33DCCC62}.Debug|x86.ActiveCfg = Debug|x86
+		{B5D44D37-601D-4225-8656-BC8D33DCCC62}.Debug|x86.Build.0 = Debug|x86
+		{B5D44D37-601D-4225-8656-BC8D33DCCC62}.Release|x86.ActiveCfg = Release|x86
+		{B5D44D37-601D-4225-8656-BC8D33DCCC62}.Release|x86.Build.0 = Release|x86
+		{4F3C2619-3E59-4612-8EFF-025466FA4B3C}.Debug|x86.ActiveCfg = Debug|x86
+		{4F3C2619-3E59-4612-8EFF-025466FA4B3C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

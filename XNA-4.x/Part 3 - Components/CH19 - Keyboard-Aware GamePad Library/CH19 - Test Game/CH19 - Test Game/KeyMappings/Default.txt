@@ -1,0 +1,6 @@
+// handy way to swap key mappings without rebuilding the
+// game. still need to restart the game, but don't have
+// to recompile. Just edit this file, exit, and restart.
+
+//#include KeyMappings\SinglePlayer.txt
+#include KeyMappings\TwoPlayers.txt
